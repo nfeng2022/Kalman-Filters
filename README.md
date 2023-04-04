@@ -13,3 +13,8 @@ With Kalman filtering, the predictions for position, velocity and acceleration v
 |                    Position                    |                 Velocity                     |                      Acceleration                    |
 :----------------------------------------------: | :--------------------------------------------: | :----------------------------------------------------: 
 ![position](./problem1_results/position.png)    | ![velocity](./problem1_results/velocity.png)  | ![acceleration](./problem1_results/acceleration.png)
+
+** To use standard Kalman filtering, run**
+'''
+python example1.py
+'''
