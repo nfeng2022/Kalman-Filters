@@ -1,5 +1,5 @@
 # Kalman-filters
-Two classes for standard Kalman filter and extended Kalman filter are implemented for two benchmark problems.  
+Two classes for standard Kalman filter and extended Kalman filter are implemented for two benchmark problems in the file "kalman_filters.py".  
 
 ## Dependency
 - numpy
@@ -30,3 +30,8 @@ With extended Kalman filtering, the predictions for model parameters trajectorie
 ![h](./problem2_results/h.png)                   | ![theta](./problem2_results/theta.png)  |
 |                    $\omega$                     |                 $\alpha$                     |  
 ![omega](./problem2_results/omega.png)    | ![alpha](./problem2_results/alpha.png)  |
+
+**To use extended Kalman filtering, run**
+```
+python example2.py
+```
