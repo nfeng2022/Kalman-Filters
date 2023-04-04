@@ -25,3 +25,6 @@ The extended Kalman filter is used to predict the state variables from a nonline
 ![extended_kalman filter](./problem_statement/problem2.PNG)  
 
 With extended Kalman filtering, the predictions for model parameters trajectories can be given in the following figures:
+|                    h                    |                 \\omega                     |                      Acceleration                    |
+:----------------------------------------------: | :--------------------------------------------: | :----------------------------------------------------: 
+![position](./problem1_results/position.png)    | ![velocity](./problem1_results/velocity.png)  | ![acceleration](./problem1_results/acceleration.png)
