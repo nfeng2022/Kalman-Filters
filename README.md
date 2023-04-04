@@ -29,5 +29,4 @@ With extended Kalman filtering, the predictions for model parameters trajectorie
 :----------------------------------------------: | :--------------------------------------------:
 ![h](./problem2_results/h.png)                   | ![theta](./problem2_results/theta.png)  |
 |                    $\omega$                     |                 $\alpha$                     |  
-:----------------------------------------------: | :--------------------------------------------:
 ![omega](./problem2_results/omega.png)    | ![alpha](./problem2_results/alpha.png)  |
