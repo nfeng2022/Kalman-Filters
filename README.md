@@ -23,3 +23,5 @@ python example1.py
 ## Benchmark for extended Kalman filtering
 The extended Kalman filter is used to predict the state variables from a nonlinear Gaussian process system which is composed of a linear evoluation model and a nonlinear measurement model. The corresponding problem statement is given as follows:
 ![extended_kalman filter](./problem_statement/problem2.PNG)  
+
+With extended Kalman filtering, the predictions for model parameters trajectories can be given in the following figures:
