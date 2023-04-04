@@ -5,7 +5,7 @@ Two classes for standard Kalman filter and extended Kalman filter are implemente
 - numpy
 - matplotlib
 
-## Benchmark
+## Benchmark for standard Kalman filtering
 The standard Kalman filter is applied to predict the state variables from a linear Gaussian process system which is composed of a evoluation model and a measurement model. The corresponding problem statement can be summarized as follows:
 ![kalman filter](./problem_statement/problem1.PNG)  
 
@@ -19,3 +19,7 @@ With Kalman filtering, the predictions for position, velocity and acceleration v
 ```
 python example1.py
 ```
+
+## Benchmark for extended Kalman filtering
+The extended Kalman filter is used to predict the state variables from a nonlinear Gaussian process system which is composed of a linear evoluation model and a nonlinear measurement model. The corresponding problem statement is given as follows:
+![extended_kalman filter](./problem_statement/problem2.PNG)  
