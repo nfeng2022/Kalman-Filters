@@ -12,7 +12,8 @@ The standard Kalman filter is applied to predict the state variables from a line
 With Kalman filtering, the predictions for position, velocity and acceleration variables can be given in the following figures:
 |                    Position                    |                 Velocity                     |                      Acceleration                    |
 :----------------------------------------------: | :--------------------------------------------: | :----------------------------------------------------: 
-![position](./problem1_results/position.png)    | ![velocity](./problem1_results/velocity.png)  | ![acceleration](./problem1_results/acceleration.png)
+![position](./problem1_results/position.png)    | ![velocity](./problem1_results/velocity.png)  | ![acceleration](./problem1_results/acceleration.png)  
+
 
 **To use standard Kalman filtering, run**
 ```
